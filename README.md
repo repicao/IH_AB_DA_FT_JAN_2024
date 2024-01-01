@@ -48,6 +48,8 @@
    </td>
    <td>Lecture
    </td>
+   <td>10 mins Break
+   </td>
    <td>Lunch Break
    </td>
    <td>Lecture
