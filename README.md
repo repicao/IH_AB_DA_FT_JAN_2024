@@ -54,7 +54,7 @@
    </td>
    <td>Lecture
    </td>
-   <td>Lab
+   <td>Lab + Mini-Project
    </td>
   </tr>
 </table>
