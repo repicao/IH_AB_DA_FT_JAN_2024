@@ -74,7 +74,7 @@
 
 <li>Intro to OOP
 
-<li>Weekly Recap
+<li>Weekly Retro
 
 <p>
 <strong>Week 1 | Day4 Key Objectives:</strong>
@@ -279,7 +279,7 @@ Weekly Retro
 <strong>Week 2 | Day5 Key Objectives:</strong>
 <ul>
 
-<li>Weekly Recap
+<li>Weekly Retro
 
 <li>Pandas Group By
 
@@ -426,7 +426,7 @@ Weekly Retro
 
 <li>Tableau
 
-<li>Weekly Recap
+<li>Weekly Retro
 
 <p>
 <strong>Week 3 | Day 4 Learning Objectives:</strong>
@@ -586,7 +586,7 @@ Weekly Retro
 
 <li>Mid term project briefing
 
-<li>Recap
+<li>Weekly Retro
 
 <p>
 <strong>Week 4 | Day 4 Learning Objectives:</strong>
@@ -979,7 +979,7 @@ It is Friday!! 🥳😎✌️
 
 <li>ML Frequent Problems
 
-<li>Recap
+<li>Weekly Retro
 
 <p>
 <strong>Week 7 | Day 4 Learning Objectives:</strong>
