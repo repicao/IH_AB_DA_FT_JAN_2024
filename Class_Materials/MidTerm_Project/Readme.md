@@ -8,7 +8,7 @@ Until Monday, you are asked to find a topic and a dataset for your project.
 - Group of maximum of two people per project. Even though it is not recommended, you can work alone on the project.
 - Every team has a 12 minute time-slot on presentation day (7 minutes presentation plus 5 minutes Q&A).
 - Every team should prepare a well-documented and organized presentation. Although presenting only a Jupyter Notebook is acceptable, we encourage you to prepare additional slides for a better story-telling experience.
-- By Monday afternoon we need you to submit a general plan for your project. To do this, first create a new Github repository dedicated for the midterm project, containing a readme file. The readme should be brief (half page or max 1 page) containing the following: (Please don't forget to submit the URL to your project repository on the student portal)
+- By Monday 10am we need you to submit a general plan for your project. To do this, first create a new Github repository dedicated for the midterm project, containing a readme file. The readme should be brief (half page or max 1 page) containing the following: (Please don't forget to submit the URL to your project repository on the student portal)
 
      + Members of the group
      + Goal of the project, what you want to achieve. Please specify if it is a modelling or BI project
@@ -47,6 +47,6 @@ Notes:
 - https://alum.mit.edu/best-practices-powerpoint-presentations
 - https://datasetsearch.research.google.com/
 
-In case, on Monday, you haven't found any dataset/project topic that interests you, you can choose one of these two options:
+In case, on Monday, you haven't found any dataset/project topic that interests you, you will be assigned one of these two options:
 1. Modelling project: Real estate modelling project (see the project folder)
 2. Business Intelligence Project: Olist Business Intelligence Project (see the project folder)
