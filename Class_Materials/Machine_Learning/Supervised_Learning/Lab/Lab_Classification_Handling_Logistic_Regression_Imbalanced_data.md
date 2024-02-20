@@ -2,7 +2,7 @@
 
 # Lab | Classification, Handling Imbalanced Data
 For this lab we will build a model on customer churn binary classification problem. You will be using this file:
-[https://drive.google.com/drive/folders/1yLmZrS-uQ2BY98vvlkTsJ4UOfKi_vIaH?usp=sharing file].
+https://drive.google.com/drive/folders/1yLmZrS-uQ2BY98vvlkTsJ4UOfKi_vIaH?usp=sharing 
 
 ### Scenario
 
