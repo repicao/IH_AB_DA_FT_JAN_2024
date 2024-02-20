@@ -1,7 +1,7 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Classification, Handling Imbalanced Data
-For this lab we will build a model on customer churn binary classification problem. You will be using `Data/DATA_Customer-Churn.csv` file.
+For this lab we will build a model on customer churn binary classification problem. You will be using this [file](https://drive.google.com/drive/folders/1yLmZrS-uQ2BY98vvlkTsJ4UOfKi_vIaH?usp=sharing file).
 
 ### Scenario
 
