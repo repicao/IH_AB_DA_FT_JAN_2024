@@ -27,7 +27,8 @@ Round 1
  
  Round 2
   - Fit a Decision Tree Classifier on the training data.
-  - Check the accuracy on the test data.
+  - Check the error metric on the test data.
+  - Create a function that takes a list of integers and trains and tests a Decision Tree Classifier using each integer as max_depth
 
  Round 3
  -  apply K-fold cross validation on your models before and check the model score.
